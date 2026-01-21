@@ -1,1 +1,15 @@
-
+{
+  "creator": {
+    "headline": "Pilot 7 — Creator App (DJ-only). UI-only control context.",
+    "mode": "TEST",
+    "live_status": "testing",
+    "live_status_text": "Testing stream playback / routing (no backend assumed).",
+    "updated": "2026-01-21",
+    "notes": "Session notes:\n- Goal:\n- What worked:\n- What failed:\n- Next change (creator repo only):\n",
+    "quick_links": [
+      { "label": "YouTube Studio Live", "href": "https://studio.youtube.com/" },
+      { "label": "OBS Project", "href": "https://obsproject.com/" },
+      { "label": "GitHub Repo (Creator)", "href": "#" }
+    ]
+  }
+}
